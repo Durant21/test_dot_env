@@ -1,0 +1,3 @@
+[run]
+source = test_dot_env
+omit = test_dot_env/test*
